@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Manjay Kumar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manjay8873&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Manjay8873" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManjayKumar8873&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Manjay8873" /> </p>
 
 # 💫 About Me
 
