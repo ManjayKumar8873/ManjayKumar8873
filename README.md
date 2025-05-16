@@ -44,7 +44,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjay8873&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManjayKumar8873&bg_color=000000&color=fafe10&line=26fde4&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ## 💳 Github Profile Summary Card
