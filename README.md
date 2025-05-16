@@ -50,28 +50,28 @@
 ## 💳 Github Profile Summary Card
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manjay8873&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManjayKumar8873&theme=dark"/>
 </p>
 
 ## 📟 GitHub Stats
 
 <p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manjay8873&theme=dark" />
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manjay8873&theme=dark&utcOffset=8" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManjayKumar8873&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManjayKumar8873&theme=dark&utcOffset=8" />
 </p>
 
 <p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manjay8873&theme=dark" />
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manjay8873&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManjayKumar8873&theme=dark" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManjayKumar8873&theme=dark" />
 </p>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manjay8873&show_icons=true&theme=dark" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjay8873&theme=dark" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManjayKumar8873&show_icons=true&theme=dark" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjayKumar8873&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjay8873&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjayKumar8873&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight">
 <p align="center">
 
 ---
