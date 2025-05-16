@@ -23,7 +23,7 @@
 
 <p float="left">
 <!-- <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> -->
-<img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<!-- <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> -->
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,7 +35,7 @@
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-<img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<!-- <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> -->
 <img width="40" height="40" display="inline-block"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img width="40" height="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
